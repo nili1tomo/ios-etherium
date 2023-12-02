@@ -2,7 +2,7 @@
 *.xcscheme
 *.xcbkptlist
 **/xcuserdata/*
-**/build
+**/buildniut
 **/src
 **/include
 **/framework
